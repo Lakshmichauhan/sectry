@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bitter:400,700|Lobster|Roboto+Condensed:400,700|Source+Code+Pro|Source+Sans+Pro:400,700&display=swap');
+
+body{
+
+background-image: url(images/acknow.gif);
+background-repeat: no-repeat;
+background-size: cover;
+}
+p{
+	word-spacing: 1em;
+	letter-spacing: 0.5em;
+	color: white;
+	font-size: 20px;
+	font-weight: 10px;
+	font-family: 'Lobster', cursive;
+}
+em{
+	font-family: 'Dancing Script', cursive;
+	color: orange;
+	font-size: 50px;
+}
+.p{
+	font-family: 'Lobster', cursive;
+	font-size: 70px;
+	font-weight: 20px;
+	color: red;
+}

@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter:400,700|Lobster|Roboto+Condensed:400,700|Shadows+Into+Light|Simonetta|Source+Code+Pro|Source+Sans+Pro:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bitter:400,700|Lobster|Oswald:400,700|Roboto+Condensed:400,700|Shadows+Into+Light|Simonetta|Source+Code+Pro|Source+Sans+Pro:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bitter:400,700|Lobster|Open+Sans+Condensed:300,700|Oswald:400,700|Roboto+Condensed:400,700|Shadows+Into+Light|Simonetta|Source+Code+Pro|Source+Sans+Pro:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bitter:400,700|Lacquer|Lobster|Open+Sans+Condensed:300,700|Oswald:400,700|Roboto+Condensed:400,700|Shadows+Into+Light|Simonetta|Source+Code+Pro|Source+Sans+Pro:400,700&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Bitter:400,700|Lacquer|Lobster|Open+Sans+Condensed:300,700|Oswald:400,700|Roboto+Condensed:400,700|Shadows+Into+Light|Simonetta|Source+Code+Pro|Source+Sans+Pro:400,700|Trade+Winds&display=swap');
+
+body{
+	margin: 0;
+}
+header{
+    font-family: 'Trade Winds', cursive;
+	background-color: black;
+	color: white;
+	padding: 8px 0px 6px 40px;
+	height: 45px;
+}
+header h1{
+	
+	font-weight: 300;
+	font-size: 35px;
+	float:left;
+	margin-top: 0px;
+	margin-right: 20px;
+}
+nav ul{
+
+	display: inline;
+	padding: 0px;
+	float: left;
+}
+nav ul li{
+font-family: 'Oswald', sans-serif;
+display: inline-block;
+list-style-type: none;
+color:white;
+float: left;
+margin-right: 20px;
+}
+nav ul li a{
+
+
+	color:white;
+	text-decoration: none;
+}
+.red{
+	background-color: red;
+	padding: 30px 10px 15px 10px;
+}
+.blue:hover{
+background-color: red;
+	padding: 30px 10px 15px 10px;
+}
+.divider{
+
+	background-color: yellow;
+	height: 3px;
+}
+.image{
+	background-image: url(images/animalc.jpg);
+	width:1350px;
+	height: 1350px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.ani{
+font-family: 'Open Sans Condensed', sans-serif;
+background-image: url(images/plant.gif);
+margin: 0;
+padding: 10% 0% 0% 35%;
+font-style: italic;
+font-size: 38px;
+letter-spacing: 0.5em;
+color: green;
+}
+.anim{
+font-family: 'Lacquer', sans-serif;
+background-image: url(images/awel.gif);
+margin: 0.5% 0% 0% 35%;
+font-size: 28px;
+color:orange;
+background-color: rgba(0,0,0,0.6);
+display: inline-block;
+}
+p{
+	color: blue;
+
+	text-align: center;
+	
+}

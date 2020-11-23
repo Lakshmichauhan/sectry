@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Bitter:400,700|Indie+Flower|Lacquer|Lobster|Open+Sans+Condensed:300,700|Oswald:400,700|Roboto+Condensed:400,700|Shadows+Into+Light|Simonetta|Source+Code+Pro|Source+Sans+Pro:400,700|Trade+Winds&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bitter:400,700|Indie+Flower|Lacquer|Lobster|Open+Sans+Condensed:300,700|Oswald:400,700|Roboto+Condensed:400,700|Shadows+Into+Light|Simonetta|Source+Code+Pro|Source+Sans+Pro:400,700|Trade+Winds&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Bitter:400,700|Dancing+Script|Indie+Flower|Lacquer|Lobster|Open+Sans+Condensed:300,700|Oswald:400,700|Roboto+Condensed:400,700|Shadows+Into+Light|Simonetta|Source+Code+Pro|Source+Sans+Pro:400,700|Trade+Winds&display=swap');
+
+body{
+	background-image: url(images/gif.gif);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+h2{
+
+font-family: 'Dancing Script', cursive;
+	background-color: red;
+color: white;
+}
+
+.data{
+font-family: 'Lobster', cursive;
+font-size: 20px;
+color: green;
+
+}
+.Education{
+	font-family:  'Lobster', cursive;
+	font-size: 20px;
+color: green;
+}
+.PE{
+	font-family: 'Lobster', cursive;
+	font-size: 20px;
+color:green;
+}
+
+p{
+	text-align: center;
+	color: blue;
+}
